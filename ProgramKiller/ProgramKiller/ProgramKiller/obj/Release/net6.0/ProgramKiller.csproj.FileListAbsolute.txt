@@ -1,0 +1,15 @@
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ProgramKiller.exe
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ProgramKiller.deps.json
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ProgramKiller.runtimeconfig.json
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ProgramKiller.dll
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ref\ProgramKiller.dll
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\Release\net6.0\ProgramKiller.pdb
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.AssemblyInfo.cs
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.dll
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ref\ProgramKiller.dll
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.pdb
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\obj\Release\net6.0\ProgramKiller.genruntimeconfig.cache

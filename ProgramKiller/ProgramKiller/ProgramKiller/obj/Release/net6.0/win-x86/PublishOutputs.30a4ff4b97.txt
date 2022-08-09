@@ -1,0 +1,2 @@
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.pdb
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.exe

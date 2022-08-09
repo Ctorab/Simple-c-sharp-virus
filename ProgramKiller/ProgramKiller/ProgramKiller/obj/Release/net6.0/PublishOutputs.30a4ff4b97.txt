@@ -1,0 +1,5 @@
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.exe
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.dll
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.deps.json
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.runtimeconfig.json
+E:\VisualStudioProjects\ProgramKiller\ProgramKiller\bin\publish\ProgramKiller.pdb
